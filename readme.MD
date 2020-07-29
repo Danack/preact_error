@@ -15,6 +15,7 @@ Install the stuff
 build the stuff
 ```npm run build:dev```
 
+Open the file ```public/index.html``` in a browser
 
 Observe the error.
 ```
